@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+     //inputs
      int firstTemp, secondTemp, thirdTemp;
 
     //first reading
